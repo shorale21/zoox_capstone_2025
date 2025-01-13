@@ -5,6 +5,82 @@
 	(uuid "d77d37fa-bfdc-44bb-83cc-90773a88d214")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 158.75 31.75)
+		(size 113.03 113.03)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a9cb67f-25c5-4666-b67f-a9781d94061d")
+		(property "Sheetname" "ETH_SIDE"
+			(at 158.75 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ETH_SIDE.kicad_sch"
+			(at 158.75 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "design_revb_2chip"
+				(path "/d77d37fa-bfdc-44bb-83cc-90773a88d214"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 22.86)
+		(size 104.14 128.27)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6ebc853-159d-43b4-8a12-21de60fcebb4")
+		(property "Sheetname" "USB_SIDE"
+			(at 19.05 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_SIDE.kicad_sch"
+			(at 19.05 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "design_revb_2chip"
+				(path "/d77d37fa-bfdc-44bb-83cc-90773a88d214"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

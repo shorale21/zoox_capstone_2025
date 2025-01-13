@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Capstone_Synbols"
+    ]
   },
   "meta": {
     "filename": "design_revb_2chip.kicad_pro",
@@ -385,6 +387,14 @@
     [
       "d77d37fa-bfdc-44bb-83cc-90773a88d214",
       "Root"
+    ],
+    [
+      "d6ebc853-159d-43b4-8a12-21de60fcebb4",
+      "USB_SIDE"
+    ],
+    [
+      "0a9cb67f-25c5-4666-b67f-a9781d94061d",
+      "ETH_SIDE"
     ]
   ],
   "text_variables": {}
