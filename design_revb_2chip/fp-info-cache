@@ -1,4 +1,4 @@
-23360600931008012
+23362337742489202
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6404,6 +6404,13 @@ capacitor tantalum
 0
 2
 2
+Capstone_Footprints
+09452812810
+09452812810-2
+Connector
+0
+6
+6
 Capstone_Footprints
 DSG0008A
 

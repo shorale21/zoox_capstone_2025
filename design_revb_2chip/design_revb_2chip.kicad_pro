@@ -235,7 +235,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Capstone_Footprints"
+    ],
     "pinned_symbol_libs": [
       "Capstone_Synbols"
     ]
