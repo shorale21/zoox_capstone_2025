@@ -4533,17 +4533,6 @@
 		)
 		(uuid "5601160c-8278-4248-ada3-6b53b65f115b")
 	)
-	(label "CLK_IN"
-		(at 27.94 40.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a387111-6dc9-4fde-8847-b5e4a3758855")
-	)
 	(label "VddioB"
 		(at 81.28 38.1 0)
 		(fields_autoplaced yes)
@@ -4891,6 +4880,18 @@
 			(justify right)
 		)
 		(uuid "40cea1c4-58cc-46f5-875a-551cc6e13715")
+	)
+	(hierarchical_label "REF_25CLK"
+		(shape input)
+		(at 27.94 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "53cc5b79-b544-4a44-ba26-e8c4799c5df4")
 	)
 	(hierarchical_label "TXD2"
 		(shape input)
