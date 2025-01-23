@@ -8579,7 +8579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Horizontal"
 			(at 251.46 53.34 0)
 			(effects
 				(font
@@ -10127,7 +10127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 212.344 169.926 90)
 			(effects
 				(font
@@ -12810,7 +12810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 227.584 78.486 90)
 			(effects
 				(font
