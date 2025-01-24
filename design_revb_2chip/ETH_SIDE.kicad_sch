@@ -4658,6 +4658,7 @@
 	)
 	(label "MDC"
 		(at 27.94 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4668,6 +4669,7 @@
 	)
 	(label "LED_1"
 		(at 85.09 176.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4678,6 +4680,7 @@
 	)
 	(label "Vdda3p3"
 		(at 264.16 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4688,6 +4691,7 @@
 	)
 	(label "Vdd1.0"
 		(at 181.61 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4698,6 +4702,7 @@
 	)
 	(label "LED_0"
 		(at 85.09 132.08 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4708,6 +4713,7 @@
 	)
 	(label "Vsleep"
 		(at 264.16 156.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4718,6 +4724,7 @@
 	)
 	(label "LED_1"
 		(at 27.94 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4728,6 +4735,7 @@
 	)
 	(label "TRD_P"
 		(at 27.94 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4738,6 +4746,7 @@
 	)
 	(label "Vdd"
 		(at 181.61 143.51 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4748,6 +4757,7 @@
 	)
 	(label "TRD_P"
 		(at 15.24 97.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4758,6 +4768,7 @@
 	)
 	(label "MDIO"
 		(at 95.25 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4768,6 +4779,7 @@
 	)
 	(label "VddioB"
 		(at 81.28 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4778,6 +4790,7 @@
 	)
 	(label "TRD_M"
 		(at 15.24 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4788,6 +4801,7 @@
 	)
 	(label "RX_D2_STRP"
 		(at 81.28 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4798,6 +4812,7 @@
 	)
 	(label "Vdd1p0B"
 		(at 264.16 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4808,6 +4823,7 @@
 	)
 	(label "Vdd1p0A"
 		(at 264.16 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4818,6 +4834,7 @@
 	)
 	(label "VddioB"
 		(at 259.08 72.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4828,6 +4845,7 @@
 	)
 	(label "RX_D1_STRP"
 		(at 102.87 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4838,6 +4856,7 @@
 	)
 	(label "TRD_M"
 		(at 27.94 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4848,6 +4867,7 @@
 	)
 	(label "LED_0"
 		(at 81.28 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4858,6 +4878,7 @@
 	)
 	(label "Vsleep"
 		(at 27.94 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4868,6 +4889,7 @@
 	)
 	(label "Vdd1p0B"
 		(at 81.28 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4878,6 +4900,7 @@
 	)
 	(label "Vdd1.0"
 		(at 275.59 27.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4888,6 +4911,7 @@
 	)
 	(label "Vdda3p3"
 		(at 27.94 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4898,6 +4922,7 @@
 	)
 	(label "RX_D1_STRP"
 		(at 81.28 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4908,6 +4933,7 @@
 	)
 	(label "RX_D0_STRP"
 		(at 81.28 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4918,6 +4944,7 @@
 	)
 	(label "RX_D2_STRP"
 		(at 102.87 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4928,6 +4955,7 @@
 	)
 	(label "Vdd1p0A"
 		(at 27.94 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4938,6 +4966,7 @@
 	)
 	(label "VddioA"
 		(at 81.28 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4948,6 +4977,7 @@
 	)
 	(label "VddioA"
 		(at 259.08 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4958,6 +4988,7 @@
 	)
 	(label "RX_D0_STRP"
 		(at 102.87 24.13 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5123,6 +5154,7 @@
 	(hierarchical_label "RXD1"
 		(shape input)
 		(at 113.03 41.91 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5134,6 +5166,7 @@
 	(hierarchical_label "PHY_RESET_N"
 		(shape input)
 		(at 36.83 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5145,6 +5178,7 @@
 	(hierarchical_label "PHY_INT_N"
 		(shape input)
 		(at 36.83 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5156,6 +5190,7 @@
 	(hierarchical_label "TXC"
 		(shape input)
 		(at 81.28 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5167,6 +5202,7 @@
 	(hierarchical_label "TXD3"
 		(shape input)
 		(at 81.28 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5178,6 +5214,7 @@
 	(hierarchical_label "TXD1"
 		(shape input)
 		(at 81.28 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5189,6 +5226,7 @@
 	(hierarchical_label "RX_CTL"
 		(shape input)
 		(at 27.94 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5200,6 +5238,7 @@
 	(hierarchical_label "REF_25CLK"
 		(shape input)
 		(at 27.94 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5211,6 +5250,7 @@
 	(hierarchical_label "TXD2"
 		(shape input)
 		(at 81.28 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5222,6 +5262,7 @@
 	(hierarchical_label "RXD2"
 		(shape input)
 		(at 113.03 59.69 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5233,6 +5274,7 @@
 	(hierarchical_label "TX_CTL"
 		(shape input)
 		(at 81.28 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5244,6 +5286,7 @@
 	(hierarchical_label "RXD3"
 		(shape input)
 		(at 81.28 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5255,6 +5298,7 @@
 	(hierarchical_label "RXD0"
 		(shape input)
 		(at 113.03 26.67 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5266,6 +5310,7 @@
 	(hierarchical_label "RXC"
 		(shape input)
 		(at 81.28 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5277,6 +5322,7 @@
 	(hierarchical_label "TXD0"
 		(shape input)
 		(at 81.28 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

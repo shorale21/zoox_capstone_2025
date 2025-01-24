@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -22,10 +22,10 @@
       "XO",
       "Net-(C27-Pad1)",
       "Net-(J3-BI_DA+)",
-      "Net-(J3-BI_DA-)",
+      "Vdd",
       "Net-(C28-Pad2)",
       "Net-(C29-Pad1)",
-      "/ETH_SIDE/Vdd",
+      "Net-(J3-GND_1)",
       "/ETH_SIDE/Vdd1.0",
       "/ETH_SIDE/VddioA",
       "/ETH_SIDE/Vdd1p0A",
