@@ -9850,12 +9850,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPP"
-			(at 62.23 149.86 0)
+		(property "Value" "3v3"
+			(at 64.77 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -10466,12 +10467,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPP"
-			(at 267.97 124.46 0)
+		(property "Value" "3v3"
+			(at 270.51 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
