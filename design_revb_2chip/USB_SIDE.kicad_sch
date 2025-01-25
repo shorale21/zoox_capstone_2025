@@ -10205,7 +10205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB3_A_Plug_Wuerth_692112030100_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Molex_105450-0101"
 			(at 29.21 91.44 0)
 			(effects
 				(font
