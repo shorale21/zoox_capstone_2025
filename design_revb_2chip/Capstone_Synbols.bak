@@ -1414,24 +1414,6 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -2.54 0)
-				(length 7.62)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
 				(at 40.64 -43.18 180)
 				(length 7.62)
 				(name "20"
@@ -1874,6 +1856,26 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "DP83TG720SWRHARQ1_1_1"
+			(pin unspecified line
+				(at 0 -2.54 0)
+				(length 7.62)
+				(name "RESET_N"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
