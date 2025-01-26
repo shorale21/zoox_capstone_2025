@@ -4953,16 +4953,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 53.34) (xy 246.38 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "036ae1a8-3d74-425d-b470-57ba2a0584cc")
-	)
-	(wire
-		(pts
 			(xy 59.69 106.68) (xy 59.69 127)
 		)
 		(stroke
@@ -5223,16 +5213,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 50.8) (xy 246.38 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e572668-dce8-475a-8022-d35a990d5a65")
-	)
-	(wire
-		(pts
 			(xy 44.45 142.24) (xy 78.74 142.24)
 		)
 		(stroke
@@ -5270,16 +5250,6 @@
 			(type default)
 		)
 		(uuid "22ebdc8d-90c3-496c-9258-32d7c9bc6cc9")
-	)
-	(wire
-		(pts
-			(xy 240.03 55.88) (xy 246.38 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "234e9765-94fe-47bf-8bbe-a93ef29f1975")
 	)
 	(wire
 		(pts
@@ -5893,16 +5863,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 45.72) (xy 246.38 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bde01fc-6201-4c81-8593-5c637598fb86")
-	)
-	(wire
-		(pts
 			(xy 243.84 63.5) (xy 243.84 66.04)
 		)
 		(stroke
@@ -6160,16 +6120,6 @@
 			(type default)
 		)
 		(uuid "7cbb0580-4295-47f0-ba97-c0e70781359d")
-	)
-	(wire
-		(pts
-			(xy 240.03 60.96) (xy 246.38 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d16e8e4-f55f-4c51-bb0a-d68ce50a3174")
 	)
 	(wire
 		(pts
@@ -6453,16 +6403,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 58.42) (xy 246.38 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2c70227-7087-49c7-8904-67e92b860cc3")
-	)
-	(wire
-		(pts
 			(xy 177.8 240.03) (xy 161.29 240.03)
 		)
 		(stroke
@@ -6500,16 +6440,6 @@
 			(type default)
 		)
 		(uuid "a631e142-8212-4853-9196-4aabd6c118b0")
-	)
-	(wire
-		(pts
-			(xy 240.03 48.26) (xy 246.38 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a706b1a2-23b8-4729-83ca-aec176e040c8")
 	)
 	(wire
 		(pts
@@ -7181,6 +7111,72 @@
 		)
 		(uuid "fe925eb1-30e4-4706-8ad5-2b6b0357404e")
 	)
+	(label "USB2_N"
+		(at 71.12 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06f25a37-74c0-4ea7-87da-33fb7a1a10a3")
+	)
+	(label "USB3_RXP"
+		(at 57.15 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d4c6eca-f81b-46ce-b593-20c655d09620")
+	)
+	(label "USB3_RXN"
+		(at 60.96 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d0a8ebe-2559-4c69-9932-31905287a645")
+	)
+	(label "USB3_TXP"
+		(at 53.34 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5030cab9-8a98-406f-9c4a-7021c6c0f1e6")
+	)
+	(label "USB2_P"
+		(at 71.12 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b0edd134-89fe-4ef0-842c-2d321bab5b88")
+	)
+	(label "USB3_TXN"
+		(at 57.15 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1bd8567-21f3-4df9-80b0-407c27eb2d42")
+	)
 	(global_label "VBUS_DET"
 		(shape input)
 		(at 218.44 209.55 0)
@@ -7469,7 +7465,7 @@
 	)
 	(global_label "GPIO5"
 		(shape input)
-		(at 240.03 48.26 180)
+		(at 246.38 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7479,7 +7475,7 @@
 		)
 		(uuid "5ec34f92-3454-4ee4-95f2-2938c4f742b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 48.26 0)
+			(at 237.71 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7601,7 +7597,7 @@
 	)
 	(global_label "GPIO4"
 		(shape input)
-		(at 240.03 45.72 180)
+		(at 246.38 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7611,7 +7607,7 @@
 		)
 		(uuid "7c10d95f-980e-48f9-82f6-298a9b441d0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 45.72 0)
+			(at 237.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7689,7 +7685,7 @@
 	)
 	(global_label "GPIO10"
 		(shape input)
-		(at 240.03 60.96 180)
+		(at 246.38 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7699,7 +7695,7 @@
 		)
 		(uuid "930235cb-6731-4c7f-ad89-8db61c3191c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 230.1505 60.96 0)
+			(at 236.5005 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7755,7 +7751,7 @@
 	)
 	(global_label "GPIO6"
 		(shape input)
-		(at 240.03 50.8 180)
+		(at 246.38 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7765,7 +7761,7 @@
 		)
 		(uuid "965693fc-1bfb-4a4b-8366-dc1814b7e324")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 50.8 0)
+			(at 237.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7953,7 +7949,7 @@
 	)
 	(global_label "GPIO7"
 		(shape input)
-		(at 240.03 53.34 180)
+		(at 246.38 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7963,7 +7959,7 @@
 		)
 		(uuid "c8c6b331-c31e-4497-90ed-a4cbdfa69bf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 53.34 0)
+			(at 237.71 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7975,7 +7971,7 @@
 	)
 	(global_label "GPIO8"
 		(shape input)
-		(at 240.03 55.88 180)
+		(at 246.38 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7985,7 +7981,7 @@
 		)
 		(uuid "c9ed9684-d930-4654-b694-2ba2c38dfa5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 55.88 0)
+			(at 237.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8151,7 +8147,7 @@
 	)
 	(global_label "GPIO9"
 		(shape input)
-		(at 240.03 58.42 180)
+		(at 246.38 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8161,7 +8157,7 @@
 		)
 		(uuid "e8f373be-780e-4beb-800e-1a1f3592d537")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.36 58.42 0)
+			(at 237.71 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8284,6 +8280,7 @@
 	(hierarchical_label "TX_CTL"
 		(shape input)
 		(at 198.12 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8295,6 +8292,7 @@
 	(hierarchical_label "RXD1"
 		(shape input)
 		(at 198.12 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8306,6 +8304,7 @@
 	(hierarchical_label "MDC"
 		(shape input)
 		(at 78.74 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8317,6 +8316,7 @@
 	(hierarchical_label "TXD3"
 		(shape input)
 		(at 198.12 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8328,6 +8328,7 @@
 	(hierarchical_label "TXD1"
 		(shape input)
 		(at 198.12 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8339,6 +8340,7 @@
 	(hierarchical_label "TXD0"
 		(shape input)
 		(at 198.12 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8350,6 +8352,7 @@
 	(hierarchical_label "TXC"
 		(shape input)
 		(at 198.12 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8361,6 +8364,7 @@
 	(hierarchical_label "PHY_INT_N"
 		(shape input)
 		(at 165.1 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8372,6 +8376,7 @@
 	(hierarchical_label "RXD0"
 		(shape input)
 		(at 198.12 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8383,6 +8388,7 @@
 	(hierarchical_label "RXD3"
 		(shape input)
 		(at 198.12 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8394,6 +8400,7 @@
 	(hierarchical_label "PHY_RESET_N"
 		(shape input)
 		(at 165.1 152.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8405,6 +8412,7 @@
 	(hierarchical_label "RXD2"
 		(shape input)
 		(at 198.12 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8416,6 +8424,7 @@
 	(hierarchical_label "MDIO"
 		(shape input)
 		(at 66.04 100.33 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8427,6 +8436,7 @@
 	(hierarchical_label "REF_25CLK"
 		(shape input)
 		(at 78.74 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8438,6 +8448,7 @@
 	(hierarchical_label "RX_CTL"
 		(shape input)
 		(at 198.12 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8449,6 +8460,7 @@
 	(hierarchical_label "TXD2"
 		(shape input)
 		(at 198.12 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8460,6 +8472,7 @@
 	(hierarchical_label "RXC"
 		(shape input)
 		(at 198.12 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11156,7 +11169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3.3V"
+		(property "Value" "3v3"
 			(at 266.7 227.33 0)
 			(effects
 				(font

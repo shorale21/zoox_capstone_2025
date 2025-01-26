@@ -16,7 +16,6 @@
       "5V",
       "Net-(U2-EN)",
       "Net-(U1-REF_FILT)",
-      "3.3V",
       "XI",
       "USB_SHIELD",
       "XO",
@@ -40,12 +39,8 @@
       "Net-(D5-K)",
       "Net-(D5-A)",
       "VBUS",
-      "Net-(J1-TX1+)",
-      "Net-(U1-USB2_DP)",
-      "Net-(J1-RX1-)",
-      "Net-(J1-RX1+)",
-      "Net-(U1-USB2_DM)",
-      "Net-(J1-TX1-)",
+      "/ETH_SIDE/LED_0_STRP_ON",
+      "/ETH_SIDE/LED_0_STRP_OFF",
       "GPIO4",
       "GPIO7",
       "GPIO10",
@@ -121,7 +116,11 @@
       "unconnected-(U5-NC-Pad4)",
       "unconnected-(U5-NC-Pad3)",
       "unconnected-(U5-Thermal_Pad-Pad9)",
-      "unconnected-(U5-NC-Pad2)"
+      "unconnected-(U5-NC-Pad2)",
+      "unconnected-(J1-CC2-PadB5)",
+      "unconnected-(J1-SBU1-PadA8)",
+      "unconnected-(J1-SBU2-PadB8)",
+      "unconnected-(J1-CC1-PadA5)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -182,7 +181,7 @@
       39,
       40
     ],
-    "visible_layers": "00fffff_ffffffff",
+    "visible_layers": "00cffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
