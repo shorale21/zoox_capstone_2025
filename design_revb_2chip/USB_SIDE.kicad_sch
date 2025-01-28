@@ -7097,6 +7097,7 @@
 	)
 	(label "USB2_N"
 		(at 71.12 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7107,6 +7108,7 @@
 	)
 	(label "USB3_RXP"
 		(at 57.15 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7117,6 +7119,7 @@
 	)
 	(label "USB3_RXN"
 		(at 60.96 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7127,6 +7130,7 @@
 	)
 	(label "USB3_TXP"
 		(at 53.34 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7137,6 +7141,7 @@
 	)
 	(label "USB2_P"
 		(at 71.12 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7147,6 +7152,7 @@
 	)
 	(label "USB3_TXN"
 		(at 57.15 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
