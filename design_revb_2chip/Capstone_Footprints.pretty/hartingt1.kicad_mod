@@ -1,4 +1,4 @@
-(footprint "09452812810"
+(footprint "hartingt1"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "09452812810"
+	(property "Value" "hartingt1"
 		(at -1.4 4.45 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" "09452812810"
+	(property "Footprint" "hartingt1"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
