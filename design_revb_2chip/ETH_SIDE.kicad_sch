@@ -9042,7 +9042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW5_219SMT"
+		(property "Footprint" "Capstone_Footprints:SW5_219SMT"
 			(at 26.67 175.26 0)
 			(effects
 				(font

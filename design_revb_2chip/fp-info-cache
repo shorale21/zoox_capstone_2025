@@ -1,4 +1,4 @@
-23374498425686750
+23376236539632288
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6418,6 +6418,13 @@ BEADC1608X95N
 0
 2
 2
+Capstone_Footprints
+CUI_UJ31-CH-3-SMT-TR
+
+
+0
+28
+28
 Capstone_Footprints
 DRB0008J-IPC_A
 
