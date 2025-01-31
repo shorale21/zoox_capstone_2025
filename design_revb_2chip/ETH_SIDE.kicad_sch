@@ -4779,7 +4779,6 @@
 	)
 	(label "LED_0_DIP"
 		(at 12.7 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4790,7 +4789,6 @@
 	)
 	(label "LED_0_STRP_ON"
 		(at 85.09 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4801,7 +4799,6 @@
 	)
 	(label "LED_1"
 		(at 85.09 176.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4812,7 +4809,6 @@
 	)
 	(label "Vdda3p3"
 		(at 264.16 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4823,7 +4819,6 @@
 	)
 	(label "Vdd1.0"
 		(at 181.61 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4834,7 +4829,6 @@
 	)
 	(label "BI_DA+"
 		(at 39.37 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4845,7 +4839,6 @@
 	)
 	(label "LED_0_STRP_OFF"
 		(at 67.31 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4856,7 +4849,6 @@
 	)
 	(label "Vsleep"
 		(at 264.16 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4867,7 +4859,6 @@
 	)
 	(label "RX_D1_DIP"
 		(at 12.7 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4878,7 +4869,6 @@
 	)
 	(label "LED_1"
 		(at 27.94 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4889,7 +4879,6 @@
 	)
 	(label "RX_D0_DIP"
 		(at 12.7 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4900,7 +4889,6 @@
 	)
 	(label "TRD_P"
 		(at 27.94 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4911,7 +4899,6 @@
 	)
 	(label "TRD_P"
 		(at 15.24 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4922,7 +4909,6 @@
 	)
 	(label "RX_D0_STRP"
 		(at 67.31 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4933,7 +4919,6 @@
 	)
 	(label "BI_DA-"
 		(at 77.47 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4944,7 +4929,6 @@
 	)
 	(label "BI_DA+"
 		(at 77.47 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4955,7 +4939,6 @@
 	)
 	(label "RX_D2_DIP"
 		(at 12.7 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4966,7 +4949,6 @@
 	)
 	(label "LED_0_DIP"
 		(at 12.7 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4977,7 +4959,6 @@
 	)
 	(label "VddioB"
 		(at 81.28 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4988,7 +4969,6 @@
 	)
 	(label "RX_D2_STRP"
 		(at 67.31 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4999,7 +4979,6 @@
 	)
 	(label "TRD_N"
 		(at 15.24 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5010,7 +4989,6 @@
 	)
 	(label "RX_D2_DIP"
 		(at 100.33 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5021,7 +4999,6 @@
 	)
 	(label "Vdd1p0B"
 		(at 264.16 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5032,7 +5009,6 @@
 	)
 	(label "Vdd1p0A"
 		(at 264.16 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5043,7 +5019,6 @@
 	)
 	(label "VddioB"
 		(at 259.08 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5054,7 +5029,6 @@
 	)
 	(label "RX_D1_STRP"
 		(at 130.81 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5065,7 +5039,6 @@
 	)
 	(label "BI_DA-"
 		(at 39.37 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5076,7 +5049,6 @@
 	)
 	(label "TRD_N"
 		(at 27.94 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5087,7 +5059,6 @@
 	)
 	(label "LED_0_DIP"
 		(at 100.33 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5098,7 +5069,6 @@
 	)
 	(label "Vsleep"
 		(at 27.94 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5109,7 +5079,6 @@
 	)
 	(label "LED_0_STRP_ON"
 		(at 67.31 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5120,7 +5089,6 @@
 	)
 	(label "Vdd1p0B"
 		(at 81.28 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5131,7 +5099,6 @@
 	)
 	(label "LED_0_STRP_OFF"
 		(at 85.09 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5142,7 +5109,6 @@
 	)
 	(label "Vdd1.0"
 		(at 275.59 27.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5153,7 +5119,6 @@
 	)
 	(label "Vdda3p3"
 		(at 27.94 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5164,7 +5129,6 @@
 	)
 	(label "RX_D1_DIP"
 		(at 100.33 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5175,7 +5139,6 @@
 	)
 	(label "RX_D0_DIP"
 		(at 100.33 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5186,7 +5149,6 @@
 	)
 	(label "RX_D2_STRP"
 		(at 130.81 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5197,7 +5159,6 @@
 	)
 	(label "Vdd1p0A"
 		(at 27.94 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5208,7 +5169,6 @@
 	)
 	(label "VddioA"
 		(at 87.63 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5219,7 +5179,6 @@
 	)
 	(label "VddioA"
 		(at 259.08 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5230,7 +5189,6 @@
 	)
 	(label "RX_D0_STRP"
 		(at 130.81 24.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5241,7 +5199,6 @@
 	)
 	(label "RX_D1_STRP"
 		(at 67.31 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
