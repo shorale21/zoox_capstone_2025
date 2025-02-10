@@ -7083,6 +7083,7 @@
 	)
 	(label "USB2_N"
 		(at 71.12 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7093,6 +7094,7 @@
 	)
 	(label "USB3_RXP"
 		(at 57.15 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7103,6 +7105,7 @@
 	)
 	(label "USB3_RXN"
 		(at 60.96 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7113,6 +7116,7 @@
 	)
 	(label "USB3_TXP"
 		(at 53.34 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7123,6 +7127,7 @@
 	)
 	(label "USB2_P"
 		(at 71.12 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7133,6 +7138,7 @@
 	)
 	(label "USB3_TXN"
 		(at 57.15 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8865,7 +8871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD_Wurth:L_Wurth_WE-LQSH-3012"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 111.76 194.31 0)
 			(effects
 				(font
@@ -9494,7 +9500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.1052 203.2 0)
 			(effects
 				(font
@@ -10604,7 +10610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 256.2352 248.92 0)
 			(effects
 				(font
@@ -13153,7 +13159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 51.7652 83.82 0)
 			(effects
 				(font
@@ -15085,7 +15091,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 147.0152 245.11 0)
 			(effects
 				(font
